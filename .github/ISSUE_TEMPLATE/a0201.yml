@@ -1,0 +1,30 @@
+name: "R 2.1 - 10 Aspetos"
+description: "R 2.1 - 10 Aspetos"
+title: "R 2.1 - 10 Aspetos"
+labels:
+  - R 2.1
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Existe um título `<h1>` marcado na página.  
+        - [Ver requisito 2.1 da lista 10 aspetos](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos#n21)
+
+  - type: textarea
+    id: evidencias
+    attributes:
+      label: Evidências
+      description: Indica as evidências encontradas
+      placeholder: Descreve aqui as evidências...
+    validations:
+      required: false
+
+  - type: textarea
+    id: recomendacoes
+    attributes:
+      label: Recomendações
+      description: Sugere melhorias ou correções
+      placeholder: Descreve aqui as recomendações...
+    validations:
+      required: false
