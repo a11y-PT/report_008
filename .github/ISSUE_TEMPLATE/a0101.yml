@@ -15,17 +15,8 @@ body:
   - type: textarea
     id: evidencias
     attributes:
-      label: Evidências
-      description: Indica as evidências encontradas
+      label: Evidências e Recomendações
+      description: Indica as evidências encontradas e, se aplicável, as recomendações 
       placeholder: Descreve aqui as evidências...
-    validations:
-      required: false
-
-  - type: textarea
-    id: recomendacoes
-    attributes:
-      label: Recomendações
-      description: Sugere melhorias ou correções
-      placeholder: Descreve aqui as recomendações...
     validations:
       required: false
