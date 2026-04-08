@@ -1,8 +1,7 @@
 ---
 name: R 1.2 - 10 Aspetos
-about: R 1.2 - 10 Aspetos
-title: R 1.2 - 10 Aspetos
-labels: R 1.2
+about: requisito 1.2, checklist 10 Aspetos Web
+labels: chk web, R 1.2
 assignees: ''
 
 ---
