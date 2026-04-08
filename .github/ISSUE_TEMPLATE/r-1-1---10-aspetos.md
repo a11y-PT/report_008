@@ -2,7 +2,7 @@
 name: R 1.1 - 10 Aspetos
 about: R 1.1 - 10 Aspetos
 title: R 1.1 - 10 Aspetos
-labels: chk 10 Web, R 1.1
+labels: chk 10 web, R 1.1
 assignees: ''
 
 ---
