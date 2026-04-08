@@ -2,7 +2,7 @@
 name: R 4.2 - Transação
 about: R 4.2 - Transação
 title: R 4.2 - Transação
-labels: chk Transação, R 4.2
+labels: R 4.2
 assignees: ''
 
 ---

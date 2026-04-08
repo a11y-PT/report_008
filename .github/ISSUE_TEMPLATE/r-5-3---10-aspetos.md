@@ -2,7 +2,7 @@
 name: R 5.3 - 10 Aspetos
 about: R 5.3 - 10 Aspetos
 title: R 5.3 - 10 Aspetos
-labels: chk 10 Web, R 5.3
+labels: R 5.3
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: R 1.2 - Conteúdo
 about: R 1.2 - Conteúdo
 title: R 1.2 - Conteúdo
-labels: chk Conteúdo, R 1.2
+labels: R 1.2
 assignees: ''
 
 ---

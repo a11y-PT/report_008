@@ -2,7 +2,7 @@
 name: R 9.4 - 10 Aspetos
 about: R 9.4 - 10 Aspetos
 title: R 9.4 - 10 Aspetos
-labels: chk 10 Web, R 9.4
+labels: R 9.4
 assignees: ''
 
 ---

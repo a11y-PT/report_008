@@ -2,7 +2,7 @@
 name: " R 1.1 - Transação"
 about: " R 1.1 - Transação"
 title: " R 1.1 - Transação"
-labels: chk Transação, R 1.1
+labels: R 1.1, R 9.4
 assignees: ''
 
 ---

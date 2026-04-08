@@ -2,7 +2,7 @@
 name: R 5.1 - Conteúdo
 about: R 5.1 - Conteúdo
 title: R 5.1 - Conteúdo
-labels: chk Conteúdo, R 5.1
+labels: R 5.1
 assignees: ''
 
 ---
