@@ -1,8 +1,8 @@
 name: "R 7.1 - 10 Aspetos"
-description: "R 7.1 - 10 Aspetos"
+description: "requisito 7.1, checklist 10 Aspetos Web"
 title: "R 7.1 - 10 Aspetos"
 labels:
-  - chk web
+  - chk 10 web
   - R 7.1
 
 body:
